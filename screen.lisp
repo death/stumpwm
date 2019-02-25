@@ -45,7 +45,7 @@
           set-frame-outline-width
           set-font))
 
-(defvar *default-bg-color* #x333333
+(defvar *default-bg-color* #x000000
   "Default color for the desktop background.")
 
 ;; Screen helper functions
